@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+
+html,
+body{padding:0; margin:0; background:#E7E7E7; color:#000000; font-size:100%;}
+h1.title{padding:20px 0; text-align:center; color:#ffffff; text-shadow:0 0 3px rgba(0,0,0,0.80)}
+p{padding:10px;}
